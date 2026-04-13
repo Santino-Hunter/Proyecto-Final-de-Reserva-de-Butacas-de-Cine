@@ -18,9 +18,11 @@ El proyecto está compuesto por las siguientes clases:
 **Sala**: Gestiona una lista de clientes y operaciones relacionadas como agregar y eliminar clientes, y buscar butacas reservadas.
 
 **FRMReserva**: Interfaz para gestionar las reservas de las butacas. Permite a los usuarios seleccionar asientos, visualizar la disponibilidad y confirmar las reservas.
+
 ![Captura Reserva](https://github.com/user-attachments/assets/55776323-cef7-4597-b602-1cb2d61e7e79)
 
 **FRMVenta**: Interfaz de usuario principal que maneja la reserva de butacas, muestra la información de los clientes y genera estadísticas de ventas.
+
 ![Captura Venta](https://github.com/user-attachments/assets/0f8c0818-b99c-42e5-84e2-76fd662be520)
 
 ## Archivos Importantes
