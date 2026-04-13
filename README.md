@@ -42,6 +42,3 @@ Visual Studio 2019 o superior
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias, correcciones o mejoras, por favor envía un pull request.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
