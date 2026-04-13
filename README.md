@@ -40,5 +40,8 @@ Archivo que almacena la información de las butacas vendidas, actualizadas a par
 
 Visual Studio 2019 o superior
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si tienes sugerencias, correcciones o mejoras, por favor envía un pull request.
+## Contribución
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el proyecto o quieres corregir errores, siéntete libre de enviar un Pull Request.
+
+## Créditos
+Desarrollado por Santino Hunter.
